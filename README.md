@@ -5,9 +5,10 @@
 ## ✨ Características
 
 - **Recomendaciones Personalizadas:** Encuentra películas similares basadas en tus preferencias.
-- **Gran Base de Datos:** Más de 3500 películas disponibles para elegir.
+- **Gran Base de Datos:** Más de 4000 películas disponibles para elegir.
 - **Dos Métodos de Similitud:** Utiliza similitud coseno y Sorensen-Dice para calcular las similitudes entre películas.
 - **Flexibilidad de Elección:** Decide cuántas películas similares u opuestas deseas ver después de seleccionar una película.
+- **Personalización:** Añade tu propia película para conocer sus similitudes, incluso si no está en nuestra base de datos.
 
 ## 🛠️ Tecnologías Utilizadas
 
